@@ -1,0 +1,8 @@
+.aider*
+.env
+*.json
+*.xml
+*.csv
+.#*
+/analysis
+!sleep-data-cleaned-sample.json
